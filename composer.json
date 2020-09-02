@@ -3,7 +3,8 @@
     "description": "Register and authenticate through a JWT token",
     "type": "flarum-extension",
     "keywords": ["authentication"],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +13,7 @@
         }
     ],
     "require": {
-        "flarum/core": "^0.1.0-beta.12",
+        "flarum/core": "^0.1.0-beta.8",
         "lcobucci/jwt": "^3.2.5"
     },
     "autoload": {
