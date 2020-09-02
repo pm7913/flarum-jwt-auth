@@ -1,5 +1,5 @@
 {
-    "name": "pm7913/flarum-jwt-auth",
+    "name": "pm7913/flarumjwtauth",
     "description": "Register and authenticate through a JWT token",
     "type": "flarum-extension",
     "keywords": ["authentication"],
