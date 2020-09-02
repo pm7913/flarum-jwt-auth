@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "flarum": "^0.1.0-beta.8",
+        "flarum/core": "^0.1.0",
         "lcobucci/jwt": "^3.2.5"
     },
     "autoload": {
