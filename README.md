@@ -1,0 +1,1 @@
+# flarum-jwt-auth
