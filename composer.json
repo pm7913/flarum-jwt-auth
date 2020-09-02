@@ -12,10 +12,6 @@
             "email": "staceyfriesen@gmail.com"
         }
     ],
-    "require": {
-        "flarum/core": "^0.1.0",
-        "lcobucci/jwt": "^3.2.5"
-    },
     "autoload": {
         "psr-4": {"Coldsnake\\JwtAuth\\": "src/"}
     },
