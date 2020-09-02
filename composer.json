@@ -3,6 +3,7 @@
     "description": "Register and authenticate through a JWT token",
     "type": "flarum-extension",
     "keywords": ["authentication"],
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
