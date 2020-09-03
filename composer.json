@@ -1,6 +1,6 @@
 {
     "name": "pm7913/flarumjwtauth",
-    "description": "Register and authenticate through a JWT token",
+     "description": "Register and authenticate through a JWT token",
     "type": "flarum-extension",
     "keywords": ["authentication"],
     "license": "MIT",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "flarum/core": "^0.1.0",
+        "flarum/core": "^0.1.0-beta.8",
         "lcobucci/jwt": "^3.2.5"
     },
     "autoload": {
@@ -26,7 +26,5 @@
                 "color": "#fff"
             }
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
